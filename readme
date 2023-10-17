@@ -1,0 +1,17 @@
+project/
+├── cmd/
+│   └── main.go
+├── db/
+│   └── database.go
+├── pkg/
+│   ├── controllers/
+│   │   └── todo_controller.go
+│   ├── services/
+│   │   └── todo_service.go
+│   └── models/
+│       └── todo.go
+├── routes/
+│   └── routes.go
+├── Dockerfile
+├── docker-compose.yml
+└── go.mod
